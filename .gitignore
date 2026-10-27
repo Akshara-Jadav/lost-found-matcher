@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+logs/
+.ipynb_checkpoints/
+.pytest_cache/
+data/reports.json
+data/sample_reports.json
